@@ -1,6 +1,6 @@
 # SPM
 # License
-MIT License
+    MIT License
 
     Copyright (c) 2023 Léonore Shaw
 
